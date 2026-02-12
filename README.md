@@ -4,13 +4,13 @@
 ## <div align="center">A passionate full-stack developer from Egypt</div>  
   
 
-- 🔭 I’m currently working on [Quran-V2](https://github.com/MazenAdel1/Quran-V2) & [Yaqra](https://github.com/Yaqra)  
+- 🔭 I’m currently working on [My New Portfolio](https://github.com/MazenAdel1/portoflio) 
   
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mazenadel1.github.io/Mazen-Adel/)  
+- 👨‍💻 All of my projects are available at [My Current Portfolio](https://mazenadel1.github.io/Mazen-Adel/)  
   
 
- Know about my experiences from [My Resume](https://drive.google.com/file/d/1bNHmAKVCJGFnmWHdrM3m82vBwmAYNCIi/view)  
+ Know about my experiences from [My Resume](https://drive.google.com/file/d/1AhEorLtHU902pkQcfbzBsMxwmn-np0CT/view?usp=sharing)  
   
 
 <br/>  
