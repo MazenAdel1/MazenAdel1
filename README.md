@@ -7,9 +7,6 @@
 - 🔭 I’m currently working on [My New Portfolio](https://github.com/MazenAdel1/portfolio) 
   
 
-- 👨‍💻 All of my projects are available at [My Current Portfolio](https://mazenadel1.github.io/Mazen-Adel/)  
-  
-
  Know about my experiences from [My Resume](https://drive.google.com/file/d/1AhEorLtHU902pkQcfbzBsMxwmn-np0CT/view?usp=sharing)  
   
 
