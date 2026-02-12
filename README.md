@@ -4,7 +4,7 @@
 ## <div align="center">A passionate full-stack developer from Egypt</div>  
   
 
-- 🔭 I’m currently working on [My New Portfolio](https://github.com/MazenAdel1/portoflio) 
+- 🔭 I’m currently working on [My New Portfolio](https://github.com/MazenAdel1/portfolio) 
   
 
 - 👨‍💻 All of my projects are available at [My Current Portfolio](https://mazenadel1.github.io/Mazen-Adel/)  
