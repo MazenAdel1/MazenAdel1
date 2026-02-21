@@ -4,10 +4,10 @@
 ## <div align="center">A passionate full-stack developer from Egypt</div>  
   
 
-- 🔭 I’m currently working on [My New Portfolio](https://github.com/MazenAdel1/portfolio) 
+- 🔭 I’m currently working on [ATP Gym website](https://github.com/MazenAdel1/atp) 
   
 
- Know about my experiences from [My Resume](https://drive.google.com/file/d/1AhEorLtHU902pkQcfbzBsMxwmn-np0CT/view?usp=sharing)  
+ Know about my experiences from [My Portfolio](https://mazen-adel.vercel.app/) or [My Resume](https://drive.google.com/file/d/1AhEorLtHU902pkQcfbzBsMxwmn-np0CT/view?usp=sharing)  
   
 
 <br/>  
