@@ -1,7 +1,7 @@
 # **<div align="center">Hi 👋, I'm Mazen Adel</div>**  
   
 
-## <div align="center">A passionate full-stack developer from Egypt</div>  
+## <div align="center">A passionate Front-End first Full-stack developer from Egypt</div>  
   
 
 - 🔭 I’m currently working on [ATP Gym website](https://github.com/MazenAdel1/atp) 
@@ -14,7 +14,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
@@ -68,7 +68,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/mazen-adel-bab141258" target="_blank">
+<a href="https://linkedin.com/in/mazen-adel-dev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/mazen.adel.ii" target="_blank">
@@ -90,6 +90,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MazenAdel1&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
+<div align="center"><img src="https://streak-stats.demolab.com?user=mazenadel1&theme=dark&border_radius=15" alt="GitHub Streak" /></div>  
 
 <br/>  
