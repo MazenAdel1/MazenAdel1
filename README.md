@@ -89,6 +89,6 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://streak-stats.demolab.com?user=mazenadel1&theme=dark&border_radius=15" alt="GitHub Streak" /></div>  
+<div align="center"><img src="https://streak-stats.demolab.com?user=MazenAdel1&theme=dark&border_radius=15" alt="GitHub Streak" /></div>  
 
 <br/>  
