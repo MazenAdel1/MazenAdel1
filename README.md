@@ -5,6 +5,7 @@
 
 <br />
 
+-  I'm currently working on [Yaqra V2](https://github.com/MazenAdel1/YaqraClient-V2)
 -  Know about my experiences from [My Portfolio](https://mazen-adel.vercel.app/) or [My Resume](https://drive.google.com/file/d/1AhEorLtHU902pkQcfbzBsMxwmn-np0CT/view?usp=sharing)  
   
 
