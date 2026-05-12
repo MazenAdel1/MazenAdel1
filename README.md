@@ -1,7 +1,7 @@
 # **<div align="center">Hi 👋, I'm Mazen Adel</div>**  
   
 
-## <div align="center">A passionate Front-End Software Engineer from Egypt</div>  
+## <div align="center">A Front-End Software Engineer from Egypt</div>  
 
 <br />
 
